@@ -52,7 +52,50 @@ Dattormācības kursa elektroniskā klade
 - vēsture:
 > history
 ## **CAT**:
+- Objektu lasīšana:
 > Shows concentration files  
 ### **comand+&**
 - turpināt darbību:
-> continue
+> continue  
+## **Y**
+- jā:
+> Yes  
+## **N**
+- nē:
+> No  
+## **CD**
+- māpes atveršana:
+> open dirrectory / go *HOME*  
+## **. / ..**
+- tekošas māpes vieta / māpe limenī augstāk:
+> current location / higher level dirrectory  
+## **CD+~**
+- mājas:
+> home  
+## **MKDIR**
+- uztaisīt māpe:
+> make dirrectory  
+## **RMDIR**
+- nodzēst māpe:
+> remove/dirrectory  
+## **RM**
+- nodzēst failu/māpi:
+> remove an object  
+## **echo +"text" >...**.txt** **
+- uzrakstīt tekstu:
+> write a text  
+## **echo +"text" >>...**.txt** **
+- papildināt teksta failu:
+> fill in some text  
+## **CP +object +"object name"**
+- kopēt:
+> copy  
+## **MV +Object +Dirrectory**
+- pārcelt objektu:
+> move object  
+## *(zvaigzne *)*
+- lai izvēleties kādu objekta kopu:
+> **MV +(Object*) +Dirrectory**
+- parvietot visus (Object) failus
+> **MV +(Dirrectory1*.txt) +Dirrectory2**
+- parcelt visus .txt objektus no (Dirrectory1) uz Dirrectory2
