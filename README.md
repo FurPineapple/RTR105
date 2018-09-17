@@ -52,4 +52,7 @@ Dattormācības kursa elektroniskā klade
 - vēsture:
 > history
 ## **CAT**:
-Concentration files
+> Shows concentration files  
+### **comand+&**
+- turpināt darbību:
+> continue
