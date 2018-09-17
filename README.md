@@ -23,7 +23,7 @@ Dattormācības kursa elektroniskā klade
 > Info  
 ## **comand_+-l**
 - māpes apraksts:
-> Directory Info  
+> Dirrectory Info  
 ## **comand_+-al**
 - detalizēta informācija:
 > Accurate Info  
@@ -32,7 +32,24 @@ Dattormācības kursa elektroniskā klade
 > Language Info  
 ## **sh**
 - ieēt valodā sh:
-- Enter Language sh  
+> Enter Language sh  
 ## **bash**
 - ieēt valodā bash:
-- Enter Language bash  
+> Enter Language bash  
+## **exit**
+- iziet:
+> Exit  
+## **Who**
+- kas pielagojies:
+> Show who is logged in  
+## **WhoAmI**
+- lietotajvards
+> USERNAME  
+## **ls**
+- attēlo māpes:
+> Show Enabled Dirrectory
+## **History**
+- vēsture:
+> history
+## **CAT**:
+Concentration files
