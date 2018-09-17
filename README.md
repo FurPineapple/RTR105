@@ -81,10 +81,10 @@ Dattormācības kursa elektroniskā klade
 ## **RM**
 - nodzēst failu/māpi:
 > remove an object  
-## **echo +"text" >...**.txt**
+## **echo +"text" >...**.txt
 - uzrakstīt tekstu:
 > write a text  
-## **echo +"text" >>...**.txt**
+## **echo +"text" >>...**.txt
 - papildināt teksta failu:
 > fill in some text  
 ## **CP +object +"object name"**
