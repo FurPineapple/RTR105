@@ -1,0 +1,41 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  u
+    4  sudo user@epk428-6 addgroup vboxsf
+    5  unam
+    6  uname 
+    7  man uname
+    8  uname 
+    9  uname -a
+   10  echo $0
+   11  sh
+   12  sh
+   13  firefox
+   14  sh
+   15  firefox
+   16  exit
+   17  who
+   18  sh
+   19  exit
+   20  who
+   21  tty
+   22  ttt
+   23  who
+   24  exit
+   25  whoami
+   26  who
+   27  sh
+   28  exit
+   29  gingerbeard
+   30  pwd
+   31  man pwd
+   32  ls
+   33  ls -l
+   34  sudo user@epk428-6 addgroup vboxsf
+   35  ls
+   36  ls -a
+   37  .
+   38  ls -la
+   39  sh
+   40  history
+   41  history >history_20180917.txt
