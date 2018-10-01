@@ -72,15 +72,20 @@ Dattormācības kursa elektroniskā klade
 ## **CD+~**
 - mājas:
 > home  
+## **/home/user/**
+
+
+
+
 ## **MKDIR**
 - uztaisīt māpe:
 > make dirrectory  
 ## **RMDIR**
 - nodzēst māpe:
-> remove/dirrectory  
+> remove dirrectory (-ignore-fail-or-non-emtpy)- to remove ignoring troubles 
 ## **RM**
 - nodzēst failu/māpi:
-> remove an object  
+> remove an object (-r) - to remove ignoring troubles  
 ## **echo +"text" >...**.txt
 - uzrakstīt tekstu:
 > write a text  

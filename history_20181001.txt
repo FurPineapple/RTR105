@@ -1,0 +1,93 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  mk dir Mape
+    4  mkdir Mape
+    5  pwd
+    6  cd Mape
+    7  pwd
+    8  mkdir MapeMapee
+    9  cd MapeMapee
+   10  sh
+   11  whereis ls
+   12  whereis Mape
+   13  cd ..
+   14  cd..
+   15  cd ..
+   16  rm Mape
+   17  rmdir Mape
+   18  man rm Mape
+   19  nano mans_scripts.sh&
+   20  nano mans_scripts.sh
+   21  ls -l
+   22  cat mans_scripts.sh
+   23  ./mans_scripts.sh
+   24  `
+
+home
+`
+   25  man `
+
+man
+man ls
+`
+   26  ~/mans_scripst.sh
+   27  `
+user
+`
+   28  `ls`
+   29  `mans_scripts.sh`
+   30  /home/user/mans_scripts.sh
+   31  cd..
+   32  cd.
+   33  man sudo
+   34  ls -l
+   35  chmod 764 mans_scripts.sh
+   36  ls -l
+   37  mans_scripts.sh
+   38  man rmdir
+   39  man rm
+   40  echo $PATH
+   41  ls -l
+   42  /bin
+   43  /bin | grep ls
+   44  /bin |grep ls
+   45  /bin grep ls
+   46  ls -l /bin | grep ls
+   47  pwd
+   48  PATH=$PATH:/~
+   49  echo $PATH
+   50  PATH=$PATH:/.
+   51  echo $PAT
+   52  echo $PATH
+   53  mans_scripts.sh
+   54  pwd
+   55  ls
+   56  ls-l
+   57  ls -l
+   58  PATH=$PATH:.
+   59  ls -l
+   60  mans_scripts.sh
+   61  nano mans_scripts.sh
+   62  pwd
+   63  cd
+   64  pwd
+   65  ls -l
+   66  rm -r Mape/
+   67  -l
+   68  ls -l
+   69  man PATH
+   70  man $
+   71  man ls
+   72  man $PATH
+   73  man sudo
+   74  git clone https://github.com/FurPineapple/RTR105
+   75  ls -l
+   76  mv mans_scripts.sh RTR105/
+   77  cd RTR105/
+   78  ls -l
+   79  nano README.md
+   80  history
+   81  nano README.md
+   82  history
+   83  nano README.md
+   84  history > history_20181001.txt
