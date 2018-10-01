@@ -1,5 +1,6 @@
 # RTR105
 Dattormācības kursa elektroniskā klade
+
 ## **Ctrl+Alt+T**
 - ieslēgt Terminālu:
 > Open terminal  
@@ -12,12 +13,12 @@ Dattormācības kursa elektroniskā klade
 ## **U+Tab+Tab**
 - iespējas:
 > Display all possibilities  
-## **UNAME**
-- sistēmas nosaukums:
-> System information  
-## **MAN+comand**
-- vairāk informācijas par komandu:
-> More Info  
+
+# Papildus komandas
+
+## **comand+&**
+- turpināt darbību:
+> continue  
 ## **comand_+-a**
 - apraksts:
 > Info  
@@ -27,6 +28,17 @@ Dattormācības kursa elektroniskā klade
 ## **comand_+-al**
 - detalizēta informācija:
 > Accurate Info  
+## **MAN+comand**
+- vairāk informācijas par komandu:
+> More Info  
+## *(zvaigzne *)*
+- lai izvēleties kādu objekta kopu:
+
+# Language
+
+## **UNAME**
+- sistēmas nosaukums:
+> System information  
 ## **ECHO $0**
 - valodas informācija:
 > Language Info  
@@ -39,6 +51,9 @@ Dattormācības kursa elektroniskā klade
 ## **exit**
 - iziet:
 > Exit  
+
+
+
 ## **Who**
 - kas pielagojies:
 > Show who is logged in  
@@ -53,10 +68,10 @@ Dattormācības kursa elektroniskā klade
 > history
 ## **CAT**:
 - Objektu lasīšana:
-> Shows concentration files  
-### **comand+&**
-- turpināt darbību:
-> continue  
+> Shows text  
+## **RM**
+- nodzēst failu/māpi:
+> remove an object (-r) - to remove ignoring troubles  
 ## **Y**
 - jā:
 > Yes  
@@ -74,18 +89,6 @@ Dattormācības kursa elektroniskā klade
 > home  
 ## **/home/user/**
 
-
-
-
-## **MKDIR**
-- uztaisīt māpe:
-> make dirrectory  
-## **RMDIR**
-- nodzēst māpe:
-> remove dirrectory (-ignore-fail-or-non-emtpy)- to remove ignoring troubles 
-## **RM**
-- nodzēst failu/māpi:
-> remove an object (-r) - to remove ignoring troubles  
 ## **echo +"text" >...**.txt
 - uzrakstīt tekstu:
 > write a text  
@@ -95,11 +98,19 @@ Dattormācības kursa elektroniskā klade
 ## **CP +object +"object name"**
 - kopēt:
 > copy  
+
+
+# Dirrectory moves
+
+## **MKDIR**
+- uztaisīt māpe:
+> make dirrectory  
+## **RMDIR**
+- nodzēst māpe:
+> remove dirrectory (-ignore-fail-or-non-emtpy)- to remove ignoring troubles 
 ## **MV +Object +Dirrectory**
 - pārcelt objektu:
 > move object  
-## *(zvaigzne *)*
-- lai izvēleties kādu objekta kopu:
 > **MV +(Object*) +Dirrectory**
 - parvietot visus (Object) failus
 > **MV +(Dirrectory1*.txt) +Dirrectory2**
