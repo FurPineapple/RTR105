@@ -13,6 +13,9 @@ Dattormācības kursa elektroniskā klade
 ## U+Tab+Tab
 - iespējas:
 > Display all possibilities  
+### . / ..
+- tekošas māpes vieta / māpe limenī augstāk:
+> current location / higher level dirrectory 
 # Papildus komandas
 ## command > * .txt  
 - ispildīt comandu .txt failā:
@@ -112,9 +115,6 @@ Dattormācības kursa elektroniskā klade
 ## CD
 - kustīties caur direktorijām:
 > move through dirrectories
-## . / ..
-- tekošas māpes vieta / māpe limenī augstāk:
-> current location / higher level dirrectory  
 ## CD+~
 - mājas:
 > home  
@@ -124,6 +124,12 @@ Dattormācības kursa elektroniskā klade
 ## CP +object +"object name"
 - kopēt:
 > copy  
+## MV + object1 + object2 = object2
+- parsaukšana
+> rename
+## nano + object
+- atvert redaktoru nano
+> open nano editor
 # Dirrectory moves
 ## MKDIR
 - uztaisīt māpe:
