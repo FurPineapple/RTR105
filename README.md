@@ -31,29 +31,33 @@ Dattormācības kursa elektroniskā klade
 ## **MAN+comand**
 - vairāk informācijas par komandu:
 > More Info  
-## *(zvaigzne *)*
-- lai izvēleties kādu objekta kopu:
-## **Y**
+## (zvaigzne *)*
+- lai izvēleties kādu objekta kopu:  
+> rm bin/(zvaigzne * *).txt
+## -Y
 - jā:
 > Yes  
-## **N**
+## -N
 - nē:
 > No  
 
 # Language
 
-## **UNAME**
+## UNAME
 - sistēmas nosaukums:
 > System information  
-## **ECHO $0**
+## ECHO $0
 - valodas informācija:
 > Language Info  
-## **sh**
+## sh
 - ieēt valodā sh:
 > Enter Language sh  
-## **bash**
+## bash
 - ieēt valodā bash:
 > Enter Language bash  
+## Python
+- 
+##
 ## **exit**
 - iziet:
 > Exit  
