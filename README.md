@@ -14,19 +14,28 @@ Dattormācības kursa elektroniskā klade
 - iespējas:
 > Display all possibilities  
 # Papildus komandas
-## comand+&
+## command > * .txt  
+- ispildīt comandu .txt failā:
+> execute command in .txt file
+### echo +"text" > * .txt
+- uzrakstīt tekstu:
+> write a text  
+### echo + text" >> * .txt
+- papildināt teksta failu:
+> fill in some text  
+## command+&
 - turpināt darbību:
 > continue  
-## comand_+-a
+## command_+-a
 - apraksts:
 > Info  
-## comand_+-l
+## command_+-l
 - māpes apraksts:
 > Dirrectory Info  
-## comand_+-al
+## command_+-al
 - detalizēta informācija:
 > Accurate Info  
-## MAN+comand
+## MAN+command
 - vairāk informācijas par komandu:
 > More Info  
 ## (zvaigzne * )
@@ -94,12 +103,6 @@ Dattormācības kursa elektroniskā klade
 ## CD + /home/user/
 - mājās:
 > home
-## echo +"text" > * .txt
-- uzrakstīt tekstu:
-> write a text  
-## echo +"text" >> * .txt
-- papildināt teksta failu:
-> fill in some text  
 ## CP +object +"object name"
 - kopēt:
 > copy  
