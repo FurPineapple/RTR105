@@ -48,6 +48,8 @@ Dattormācības kursa elektroniskā klade
 ## **bash**
 - ieēt valodā bash:
 > Enter Language bash  
+
+
 ## **exit**
 - iziet:
 > Exit  
