@@ -31,9 +31,9 @@ Dattormācības kursa elektroniskā klade
 ## **MAN+comand**
 - vairāk informācijas par komandu:
 > More Info  
-## (zvaigzne *)*
+## (zvaigzne * )
 - lai izvēleties kādu objekta kopu:  
-> rm bin/(zvaigzne * *).txt
+> rm bin/(zvaigzne * ).txt - remove all .txt objects; bin/ dirrectory
 ## -Y
 - jā:
 > Yes  
