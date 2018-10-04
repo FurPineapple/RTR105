@@ -13,9 +13,7 @@ Dattormācības kursa elektroniskā klade
 ## U+Tab+Tab
 - iespējas:
 > Display all possibilities  
-
 # Papildus komandas
-
 ## comand+&
 - turpināt darbību:
 > continue  
@@ -40,9 +38,7 @@ Dattormācības kursa elektroniskā klade
 ## -N
 - nē:
 > No  
-
 # Language
-
 ## UNAME
 - sistēmas nosaukums:
 > System information  
@@ -56,70 +52,68 @@ Dattormācības kursa elektroniskā klade
 - ieēt valodā bash:
 > Enter Language bash  
 ## Python
-- 
->
+- ieēt prog. valodā PYTHON:
+> Enter Language PYTHON  
 ## Ipython
--
->
+- ieēt prog. valodā IPYTHON:
+> Enter Language IPYTHON  
 ## Idle
--
->
+- ieēt prog. valodā IDLE:
+> Enter Language IDLE  
 ## exit
 - iziet:
 > Exit  
 # Starter Commands
-## **Who**
+## Who
 - kas pielagojies:
 > Show who is logged in  
-## **WhoAmI**
+## WhoAmI
 - lietotajvards
 > USERNAME  
-## **History**
+## History
 - vēsture:
 > history
-## **CAT**:
+## CAT
 - Objektu lasīšana:
 > Shows text  
-## **RM**
+## RM
 - nodzēst failu/māpi:
 > remove an object (-r) - to remove ignoring troubles  
-## **LS**
+## LS
 - attēlo māpes:
 > Show Enabled Dirrectory
-## **CD**
+## CD
 - kustīties caur direktorijām:
 > move through dirrectories
-## **. / ..**
+## . / ..
 - tekošas māpes vieta / māpe limenī augstāk:
 > current location / higher level dirrectory  
-## **CD+~**
+## CD+~
 - mājas:
 > home  
-## **/home/user/**
-
-## **echo +"text" >...**.txt
+## CD + /home/user/
+- mājās:
+> home
+## echo +"text" > * .txt
 - uzrakstīt tekstu:
 > write a text  
-## **echo +"text" >>...**.txt
+## echo +"text" >> * .txt
 - papildināt teksta failu:
 > fill in some text  
-## **CP +object +"object name"**
+## CP +object +"object name"
 - kopēt:
 > copy  
-
-
 # Dirrectory moves
-
-## **MKDIR**
+## MKDIR
 - uztaisīt māpe:
 > make dirrectory  
-## **RMDIR**
+## RMDIR
 - nodzēst māpe:
 > remove dirrectory (-ignore-fail-or-non-emtpy)- to remove ignoring troubles 
-## **MV +Object +Dirrectory**
+## MV +Object +Dirrectory
 - pārcelt objektu:
 > move object  
-> **MV +(Object*) +Dirrectory**
+> **MV +(Object * ) + Dirrectory**
 - parvietot visus (Object) failus
 > **MV +(Dirrectory1*.txt) +Dirrectory2**
 - parcelt visus .txt objektus no (Dirrectory1) uz Dirrectory2
