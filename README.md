@@ -142,5 +142,5 @@ Dattormācības kursa elektroniskā klade
 > move object  
 > **MV +(Object * ) + Dirrectory**
 - parvietot visus (Object) failus
-> **MV +(Dirrectory1*.txt) +Dirrectory2**
+> **MV +(Dirrectory1 ( * .txt)) +Dirrectory2**
 - parcelt visus .txt objektus no (Dirrectory1) uz Dirrectory2
