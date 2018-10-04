@@ -1,34 +1,34 @@
 # RTR105
 Dattormācības kursa elektroniskā klade
 
-## **Ctrl+Alt+T**
+## Ctrl+Alt+T
 - ieslēgt Terminālu:
 > Open terminal  
-## **Ctrl+Shift+T**
+## Ctrl+Shift+T
 - vairākie logi:
 > New log  
-## **Ctrl+Alt+F1...F7**
+## Ctrl+Alt+F1...F7
 - mainīt konsoli:
 > another console  
-## **U+Tab+Tab**
+## U+Tab+Tab
 - iespējas:
 > Display all possibilities  
 
 # Papildus komandas
 
-## **comand+&**
+## comand+&
 - turpināt darbību:
 > continue  
-## **comand_+-a**
+## comand_+-a
 - apraksts:
 > Info  
-## **comand_+-l**
+## comand_+-l
 - māpes apraksts:
 > Dirrectory Info  
-## **comand_+-al**
+## comand_+-al
 - detalizēta informācija:
 > Accurate Info  
-## **MAN+comand**
+## MAN+comand
 - vairāk informācijas par komandu:
 > More Info  
 ## (zvaigzne * )
@@ -57,13 +57,17 @@ Dattormācības kursa elektroniskā klade
 > Enter Language bash  
 ## Python
 - 
-##
-## **exit**
+>
+## Ipython
+-
+>
+## Idle
+-
+>
+## exit
 - iziet:
 > Exit  
-
 # Starter Commands
-
 ## **Who**
 - kas pielagojies:
 > Show who is logged in  
