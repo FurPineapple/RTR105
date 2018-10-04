@@ -17,10 +17,16 @@ Dattormācības kursa elektroniskā klade
 ## command > * .txt  
 - ispildīt comandu .txt failā:
 > execute command in .txt file
+### > file. *   
+- uztaisīt failu:
+> make a new file
+### command > folder/ file. * 
+- uztaisīt jaunu failu folder/ direktorijā
+> make a new file in folder/
 ### echo +"text" > * .txt
 - uzrakstīt tekstu:
 > write a text  
-### echo + text" >> * .txt
+### echo + "text" >> * .txt
 - papildināt teksta failu:
 > fill in some text  
 ## command+&
@@ -79,6 +85,18 @@ Dattormācības kursa elektroniskā klade
 ## WhoAmI
 - lietotajvards
 > USERNAME  
+## WhereIs  
+- atrast vienkāršu failu:
+> locate a file
+## find
+- atrast failu direktorijā
+> search for file in dirrectory
+## sort
+- šķirot failus
+> sort files
+## clear
+- notīrīt terminālu
+> clear terminal
 ## History
 - vēsture:
 > history
