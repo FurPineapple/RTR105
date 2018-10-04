@@ -33,6 +33,12 @@ Dattormācības kursa elektroniskā klade
 > More Info  
 ## *(zvaigzne *)*
 - lai izvēleties kādu objekta kopu:
+## **Y**
+- jā:
+> Yes  
+## **N**
+- nē:
+> No  
 
 # Language
 
@@ -48,13 +54,11 @@ Dattormācības kursa elektroniskā klade
 ## **bash**
 - ieēt valodā bash:
 > Enter Language bash  
-
-
 ## **exit**
 - iziet:
 > Exit  
 
-
+# Starter Commands
 
 ## **Who**
 - kas pielagojies:
@@ -62,9 +66,6 @@ Dattormācības kursa elektroniskā klade
 ## **WhoAmI**
 - lietotajvards
 > USERNAME  
-## **ls**
-- attēlo māpes:
-> Show Enabled Dirrectory
 ## **History**
 - vēsture:
 > history
@@ -74,15 +75,12 @@ Dattormācības kursa elektroniskā klade
 ## **RM**
 - nodzēst failu/māpi:
 > remove an object (-r) - to remove ignoring troubles  
-## **Y**
-- jā:
-> Yes  
-## **N**
-- nē:
-> No  
+## **LS**
+- attēlo māpes:
+> Show Enabled Dirrectory
 ## **CD**
-- māpes atveršana:
-> open dirrectory / go *HOME*  
+- kustīties caur direktorijām:
+> move through dirrectories
 ## **. / ..**
 - tekošas māpes vieta / māpe limenī augstāk:
 > current location / higher level dirrectory  
