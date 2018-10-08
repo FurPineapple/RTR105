@@ -1,0 +1,48 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  nano fire.txt &
+    5  nano
+    6  sh
+    7  help
+    8  man systemd
+    9  idle
+   10  mkdir Fix
+   11  pwd
+   12  ls -al
+   13  cd Fix
+   14  nano >fire.txt
+   15  ls -l
+   16  rm Fix -r
+   17  ls -l
+   18  type
+   19  ls -l
+   20  man type
+   21  ls -la
+   22  man git
+   23  clear
+   24  git clone https://github.com/FurPineapple/RTR105
+   25  ls -l
+   26  cd RTR105
+   27  pwd
+   28  clear
+   29  nano dialogs.py
+   30  ls -l
+   31  chmod 764 dialogs.py 
+   32  ls -l
+   33  dialogs.py
+   34  python
+   35  python dialogs.py 
+   36  python dialogs.py
+   37  nano dialogs.py 
+   38  python dialogs.py
+   39  nano dialogs.py 
+   40  python dialogs.py
+   41  nano dialogs.py 
+   42  python dialogs.py
+   43  pwd
+   44  ls -l
+   45  history > history_20171008.txt
+   46  ls -l
+   47  rm history_20171008.txt 
+   48  history > history_20181008.txt
