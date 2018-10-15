@@ -1,0 +1,33 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox&
+    4  nano py
+    5  pwd
+    6  ls -l
+    7  nano ortus.py
+    8  idle
+    9  q
+   10  git clone https://edx2.etf.rtu.lv/portal/RTR105/FurPineapple
+   11  git clone https://edx2.etf.rtu.lv/portal/FurPineapple/RTR105
+   12  git clone https://github.com/FurPineapple/RTR105
+   13  ls -l
+   14  idle&
+   15  nano
+   16  ls -l
+   17  mv text.txt RTR105/
+   18  cd RTR105/
+   19  ls -l
+   20  history>history_20181015.txt
+   21  ls -l
+   22  git-upload https://github.com/FurPineapple/RTR105
+   23  git-upload
+   24  ./git-upload
+   25  ./git-upload 20181015_11_43
+   26  firefox&
+   27  idle
+   28  firefox&
+   29  idle&
+   30  ls -l
+   31  cd RTR105
+   32  ls -l
+   33  history>history_20181015_14_00
