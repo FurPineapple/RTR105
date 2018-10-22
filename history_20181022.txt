@@ -1,0 +1,6 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  cd RTR105
+    5  ls -l
+    6  history>history_20181022.txt
