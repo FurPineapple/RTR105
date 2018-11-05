@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  idle&
+    4  firefox&
+    5  q
+    6  ls -l
+    7  cd RTR105
+    8  ls -l
+    9  idle&
+   10  q
+   11  ls -l
+   12  history>history_20181105.txt
