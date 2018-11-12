@@ -1,0 +1,170 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo $0
+    4  $
+    5  echo $RANDOM
+    6  echo $PS1
+    7  PSI1 = "$"
+    8  PS1 = "$"
+    9  PS1="$"
+   10  PS1=">"
+   11  $SHELL
+   12  pwd
+   13  mkdr abc
+   14  mkdir abc
+   15  cd abc
+   16  pwd
+   17  cd
+   18  pwd
+   19  cd /home
+   20  ls
+   21  man ls
+   22  cd abc
+   23  cd
+   24  cd abc
+   25  nano ../test.sh
+   26  vim test.sh
+   27  ls -la
+   28  vim hello.sh
+   29  bash hello.sh
+   30  chmod -x hello.sh
+   31  hello.sh
+   32  ls -la
+   33  chmod +x hello.sh
+   34  hello.sh
+   35  ./hello.sh
+   36  vim hello.sh
+   37  chmod -x hello.sh
+   38  nano hello.sh
+   39  ./hello.sh
+   40  chmod +x hello.sh
+   41  ./hello.sh
+   42  lss -la
+   43  ls -la
+   44  nano helo.sh
+   45  nano hello.sh
+   46  ./hello.sh
+   47  nano hello.sh
+   48  fgfgfg
+   49  fg
+   50  ./hello.sh
+   51  nano hello.sh
+   52  ./hello.sh
+   53  ls
+   54  ls -la
+   55  nano hello.sh
+   56  ./hello.sh
+   57  ls -la
+   58  nano hello.sh
+   59  ./hello.sh
+   60  ls
+   61  nano hello.sh
+   62  ./hello.sh
+   63  ls
+   64  ./test.sh
+   65  bash ./test.sh
+   66  ./test.sh
+   67  1000
+   68  bash ./test.sh
+   69  R
+   70  SHELL
+   71  echo $RANDOM
+   72  SHELL
+   73  echo $RANDOM
+   74  man
+   75  $RANDOM
+   76  man random
+   77  man VARIABLES
+   78  man VARIABLE
+   79  man
+   80  for i in 11 33; do echo $i ; for i in 11 33; do echo $i ; done\; for i in 11 33; do echo $i; done
+   81  ; for i in 11 33; echo $i; done
+   82  for i in 11 33; do echo $i; done
+   83  for i in [0..9]; do echo $i; done
+   84  for seq 1 9; do echo $i; done
+   85  seq 1 9
+   86  seq 0 9
+   87  seq 1 4
+   88  man seq
+   89  seq 1 0.01 2
+   90  for i in {0..3}; do echo $RANDOM; done
+   91  for i in $(seq 0 3); do echo $RANDOM; done
+   92  for i in {0..3}; do echo $RANDOM; done
+   93  for i in {0..5..2}; do echo $RANDOM; done
+   94  for i in {0..7..2}; do echo $RANDOM; done
+   95  for i in {0..5..2}; do $RANDOM >> test.txt; done
+   96  for i in {0..5..2}; do echo $RANDOM >> test.txt; done
+   97  nano test.txt
+   98  for i in {0..7}; do echo $RANDOM >> test.txt; done
+   99  rem test.txt
+  100  rm test.txt
+  101  for i in {0..7}; do echo $RANDOM >> test.txt; done
+  102  nano test.txt
+  103  for i in {0..7}; do echo $RANDOM >> test.txt; done
+  104  nano test.txt
+  105  rm test.txt
+  106  for i in {0..7}; do echo $RANDOM >> test.txt; done
+  107  echo {1..7}
+  108  for i in $({0..7}); do echo $RANDOM >> test.txt; done
+  109  for i in {0..7}; do echo $RANDOM >> test.txt; done
+  110  nano tst.txt
+  111  nano tast.txt
+  112  nano test.txt
+  113  for i in {0..7}; do echo $RANDOM >> test.txt; done
+  114  w
+  115  for i in {0..7}; do echo $RANDOM > test.txt; done
+  116  nano test.txt
+  117  for i in {0..7}; do echo $RANDOM > test.txt; done
+  118  nano test.txt
+  119  for i in {0..7}; do echo $RANDOM > test.txt; done
+  120  nano test.txt
+  121  for i in {0..7}; do echo $RANDOM >> test.txt; done
+  122  nano test.txt
+  123  for i in {0..7}; do echo $RANDOM >> test.txt; done
+  124  nano test.txt
+  125  man cat
+  126  nano test.sh
+  127  ./test.sh
+  128  bash test.sh
+  129  nano test.sh
+  130  [A
+  131  bash test.sh
+  132  nano test.sh
+  133  bash test.sh
+  134  nano test.sh
+  135  bash test.sh
+  136  nano test.sh
+  137  bash test.sh
+  138  nano test.sh
+  139  bash test.sh
+  140  nano test.sh
+  141  bash test.sh
+  142  nano test.sh
+  143  bash test.sh
+  144  nano test.sh
+  145  bash test.sh
+  146  rm test.txt
+  147  bash test.sh
+  148  nano test.sh
+  149  bash test.sh
+  150  nano test.sh
+  151  bash test.sh
+  152  rm test.txt
+  153  bash test.sh
+  154  nano test.sh
+  155  git clone https://github.com/FurPineapple/RTR105
+  156  ls -l
+  157  cd RTR105
+  158  firefox&
+  159  idle&
+  160  ls -l
+  161  rm wtch.txt
+  162  ls -l
+  163  idle&
+  164  firefox&
+  165  cd RTR105
+  166  pwd
+  167  idle&
+  168  ls -lq
+  169  ls -l
+  170  history>history_20181112.txt
