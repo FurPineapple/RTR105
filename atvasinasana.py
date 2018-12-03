@@ -1,14 +1,13 @@
 import sys
 sys.path.append('/usr/local/anaconda3/lib/python3.6/site-packages')
 
-from numpy import sin, linspace
+from numpy import arcsinh, linspace
 def f(x):
-    return sin(x)
+    return arcsinh(x)
 
 x=linspace(0,4,11)
 print(x)
 y=f(x)
-#y=sin(x)
 print(y)
 legend=[]
 
@@ -16,13 +15,12 @@ from matplotlib import pyplot as plt
 plt.grid()
 plt.xlabel("x")
 plt.ylabel("f(x)")
-plt.title("$sin(x)$ funkcija un tās atvasinajumi")
+plt.title("$arcsinh(x)$ funkcija un tās atvasinajumi")
 plt.plot(x,y,"k")
 
-legend.append("$sin(x)$ funkcijas")
-plt.plot(x,y,"go")
+legend.append("$arcsinh(x)$ funkcijas")
 
-legend.append("$sin(x)$ funkcija(daži punkti)")
+legend.append("$arcsinh(x)$ funkcija(daži punkti)")
 plt.plot(x,y,"go")
 
 deltax=x[1]-x[0]
