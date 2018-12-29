@@ -162,10 +162,15 @@ Dattormācības kursa elektroniskā klade
 >  * (%) REMAINDER
 ## BASIC MATHS 2
 > (<) Less than
+
 > (<=)  Less than or Equal to
+
 > (==)  Equal to
+
 > (>=)  Greater than or Equal to
+
 > (>) Greater than
+
 > (!=)  Not Equal
 ## Operators
 
@@ -173,28 +178,45 @@ Dattormācības kursa elektroniskā klade
 > *if number in (range:[1,2,3...])*
 # for
 > *rangelist=range(10)*
+
 > *print(rangelist)*
+
 > *[0,1,2,3,4,5,6,7,8,9]*
+
 > *for number in (rangelist)*
 # while
 > *while rangelist[1]==1:*
+
 > *pass*(DOING NOTHING)
 # else
 > *else:*
+
 > *continue*(DOING THE SAME, AGAIN)
 # elif
 > *var = 100*
+
 > *if var == 200:*
+
 >    *print "1 - Got a true expression value"*
+
 >    *print var*
+
 > *elif var == 150:*
+
 >    *print "2 - Got a true expression value"*
+
 >   *print var*
+
 > *elif var == 100:*
+
 >    *print "3 - Got a true expression value"*
+
 >    *print var*
+
 > *else:*
+
 >    *print "4 - Got a false expression value"*
+
 >    *print var*
 >
 > *print "Good bye!"*
