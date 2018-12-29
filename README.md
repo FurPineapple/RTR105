@@ -145,3 +145,30 @@ Dattormācības kursa elektroniskā klade
 - parvietot visus (Object) failus
 > **MV +(Dirrectory1 ( * .txt)) +Dirrectory2**
 - parcelt visus .txt objektus no (Dirrectory1) uz Dirrectory2
+
+# PYTHON/IDLE
+
+## print()
+> describe an object
+> * INTEGERS (int)
+  * FLOATING (float)
+  * STRING (str)
+## BASIC MATHS
+> * + ADDITION
+  * - SUBTRACTION
+  * * MULTIPLICATION
+  * / DIVISION
+  * ** POWER
+  * % REMAINDER
+##
+>
+##
+>
+##
+>
+##
+>
+##
+>
+##
+>
