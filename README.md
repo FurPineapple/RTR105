@@ -154,12 +154,12 @@ Dattormācības kursa elektroniskā klade
   * FLOATING (float)
   * STRING (str)
 ## BASIC MATHS
-> * (+) ADDITION
-  * (-) SUBTRACTION
-  * (*) MULTIPLICATION
-  * (/) DIVISION
-  * (**) POWER
-  * (%) REMAINDER
+>  * (+) ADDITION
+>  * (-) SUBTRACTION
+>  * (*) MULTIPLICATION
+>  * (/) DIVISION
+>  * (**) POWER
+>  * (%) REMAINDER
 ##
 >
 ##
