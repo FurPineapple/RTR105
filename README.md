@@ -151,8 +151,8 @@ Dattormācības kursa elektroniskā klade
 ## print()
 > describe an object
 > * INTEGERS (int)
-  * FLOATING (float)
-  * STRING (str)
+> * FLOATING (float)
+> * STRING (str)
 ## BASIC MATHS
 >  * (+) ADDITION
 >  * (-) SUBTRACTION
