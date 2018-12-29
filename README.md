@@ -1,6 +1,7 @@
 # RTR105
 Dattormācības kursa elektroniskā klade
 
+# Darbs LINUX
 ## Ctrl+Alt+T
 - ieslēgt Terminālu:
 > Open terminal  
