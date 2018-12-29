@@ -193,33 +193,33 @@ Dattormācības kursa elektroniskā klade
 
 > *continue*(DOING THE SAME, AGAIN)
 # elif
-> *var = 100*
+> var = 100
 
 > *if var == 200:*
 
->    *print "1 - Got a true expression value"*
+>    print "1 - Got a true expression value"
 
->    *print var*
+>    print var
 
-> *elif var == 150:*
+> elif var == 150:
 
->    *print "2 - Got a true expression value"*
+>    print "2 - Got a true expression value"
 
->   *print var*
+>   print var
 
-> *elif var == 100:*
+> elif var == 100:
 
->    *print "3 - Got a true expression value"*
+>    print "3 - Got a true expression value"
 
->    *print var*
+>    print var
 
-> *else:*
+> else:
 
->    *print "4 - Got a false expression value"*
+>    print "4 - Got a false expression value"
 
->    *print var*
+>    print var
 >
-> *print "Good bye!"*
+> print "Good bye!"
 ##
 >
 ##
