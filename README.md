@@ -149,10 +149,11 @@ Dattormācības kursa elektroniskā klade
 # PYTHON/IDLE
 
 ## print()
-> describe an object
-> * INTEGERS (int)
-> * FLOATING (float)
-> * STRING (str)
+> describes an object
+> type()
+> * INTEGERS (int(a) )
+> * FLOATING (float(a.) )
+> * STRING (str("a") )
 ## BASIC MATHS 1
 >  * (+) ADDITION
 >  * (-) SUBTRACTION
@@ -217,10 +218,6 @@ except:
     istr=("0")  
     print("Incorrect type: ",istr)  
     print("You entered: ",astr,"- not a numer!")  
-
-
-
-
 ##
 >
 ##
