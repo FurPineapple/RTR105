@@ -178,10 +178,10 @@ Dattormācības kursa elektroniskā klade
 # PYTHON/IDLE
 
 ## Modules
-> *#Import built-in module math*
-> import math
-> content = dir(math)
-> print content
+> *#Import built-in module math*  
+> import math  
+> content = dir(math)  
+> print content  
 > *['__doc__', '__file__', '__name__', 'acos', 'asin', 'atan',   
 > 'atan2', 'ceil', 'cos', 'cosh', 'degrees', 'e', 'exp',         
 > 'fabs', 'floor', 'fmod', 'frexp', 'hypot', 'ldexp', 'log',     
