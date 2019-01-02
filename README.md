@@ -202,6 +202,39 @@ Dattormācības kursa elektroniskā klade
 > (>) Greater than
 
 > (!=)  Not Equal
+## BASIC MATHS 3
+> len((1, 2, 3)) = 3
+> (1, 2, 3) + (4, 5, 6) = (1, 2, 3, 4, 5, 6)
+> ('Hi!',) * 4 = ('Hi!', 'Hi!', 'Hi!', 'Hi!')
+> 3 in (1, 2, 3) = true
+> for x in (1, 2, 3): print x, = true
+> 
+## Strings
+- To access substrings, use the square brackets 
+- for slicing along with the index or indices to obtain your substring.
+> var1 = 'Hello World!'
+> var2 = "Python Programming"  
+
+> print "var1[0]: ", var1[0]
+> print "var2[1:5]: ", var2[1:5]  
+## Functions
+# def
+> # Function definition is here
+> def printme( str ):
+>    "This prints a passed string into this function"
+>    print str
+>    return;
+
+>  *Now you can call printme function*
+> printme("I'm first call to user defined function!")
+> printme("Again second call to the same function")
+
+## Lists
+> list1 = ['physics', 'chemistry', 1997, 2000];
+> list2 = [1, 2, 3, 4, 5, 6, 7 ];
+> print "list1[0]: ", list1[0]
+> print "list2[1:5]: ", list2[1:5]
+
 ## Operators
 
 # if
