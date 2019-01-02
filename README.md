@@ -182,11 +182,11 @@ Dattormācības kursa elektroniskā klade
 > import math
 > content = dir(math)
 > print content
-*['__doc__', '__file__', '__name__', 'acos', 'asin', 'atan', 
-'atan2', 'ceil', 'cos', 'cosh', 'degrees', 'e', 'exp', 
-'fabs', 'floor', 'fmod', 'frexp', 'hypot', 'ldexp', 'log',
-'log10', 'modf', 'pi', 'pow', 'radians', 'sin', 'sinh', 
-'sqrt', 'tan', 'tanh']*
+> *['__doc__', '__file__', '__name__', 'acos', 'asin', 'atan',   
+> 'atan2', 'ceil', 'cos', 'cosh', 'degrees', 'e', 'exp',         
+> 'fabs', 'floor', 'fmod', 'frexp', 'hypot', 'ldexp', 'log',     
+> 'log10', 'modf', 'pi', 'pow', 'radians', 'sin', 'sinh',        
+> 'sqrt', 'tan', 'tanh']*  
 ## print()
 > describes an object
 > type()
@@ -213,50 +213,50 @@ Dattormācības kursa elektroniskā klade
 
 > (!=)  Not Equal
 # BASIC MATHS 3
-> len((1, 2, 3)) = 3
-> (1, 2, 3) + (4, 5, 6) = (1, 2, 3, 4, 5, 6)
-> ('Hi!',) * 4 = ('Hi!', 'Hi!', 'Hi!', 'Hi!')
-> 3 in (1, 2, 3) = true
-> for x in (1, 2, 3): print x, = true
+> len((1, 2, 3)) = 3  
+> (1, 2, 3) + (4, 5, 6) = (1, 2, 3, 4, 5, 6)  
+> ('Hi!',) * 4 = ('Hi!', 'Hi!', 'Hi!', 'Hi!')  
+> 3 in (1, 2, 3) = true  
+> for x in (1, 2, 3): print x, = true  
 > 
 ## Strings
-- To access substrings, use the square brackets 
-- for slicing along with the index or indices to obtain your substring.
-> var1 = 'Hello World!'
-> var2 = "Python Programming"  
+- To access substrings, use the square brackets   
+- for slicing along with the index or indices to obtain your substring.  
+> var1 = 'Hello World!'  
+> var2 = "Python Programming"    
 
-> print "var1[0]: ", var1[0]
-> print "var2[1:5]: ", var2[1:5]  
+> print "var1[0]: ", var1[0]  
+> print "var2[1:5]: ", var2[1:5]    
 ## Functions
 # def
-> # Function definition is here
-> def printme( str ):
->    "This prints a passed string into this function"
->    print str
->    return;
+> # Function definition is here  
+> def printme( str ):  
+>    "This prints a passed string into this function"  
+>    print str  
+>    return;  
 
->  *Now you can call printme function*
-> printme("I'm first call to user defined function!")
-> printme("Again second call to the same function")
+>  *Now you can call printme function*  
+> printme("I'm first call to user defined function!")  
+> printme("Again second call to the same function")  
 
 ## Lists
-> list1 = ['physics', 'chemistry', 1997, 2000];
-> list2 = [1, 2, 3, 4, 5, 6, 7 ];
-> print "list1[0]: ", list1[0]
-> print "list2[1:5]: ", list2[1:5]
+> list1 = ['physics', 'chemistry', 1997, 2000];  
+> list2 = [1, 2, 3, 4, 5, 6, 7 ];  
+> print "list1[0]: ", list1[0]  
+> print "list2[1:5]: ", list2[1:5]  
 
 ## Operators
 
 # if
 > *if number in (range:[1,2,3...])*
 # for
-> *rangelist=range(10)*
+> *rangelist=range(10)*  
 
-> *print(rangelist)*
+> *print(rangelist)*  
 
-> *[0,1,2,3,4,5,6,7,8,9]*
+> *[0,1,2,3,4,5,6,7,8,9]*  
 
-> *for number in (rangelist)*
+> *for number in (rangelist)*  
 # while
 > *while rangelist[1]==1:*
 
