@@ -2,6 +2,8 @@
 Dattormācības kursa elektroniskā klade
 
 # Darbs LINUX
+## Tab
+- ātra izsaukšana
 ## Ctrl+Alt+T
 - ieslēgt Terminālu:
 > Open terminal  
@@ -218,7 +220,7 @@ except:
     istr=("0")  
     print("Incorrect type: ",istr)  
     print("You entered: ",astr,"- not a numer!")  
-##
+## File reading
 >
 ##
 >
