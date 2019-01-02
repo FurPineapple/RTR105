@@ -38,15 +38,17 @@ Dattormācības kursa elektroniskā klade
 ## command+&
 - turpināt darbību:
 > continue  
-## command_+-a
+## LS+ -a
 - apraksts:
 > Info  
-## command_+-l
+## LS+ -l
 - māpes apraksts:
 > Dirrectory Info  
-## command_+-al
+## LS+ -al
 - detalizēta informācija:
 > Accurate Info  
+## LS+ -R
+> Shows files/dirs and it's levels
 ## MAN+command
 - vairāk informācijas par komandu:
 > More Info  
@@ -85,33 +87,53 @@ Dattormācības kursa elektroniskā klade
 - iziet:
 > Exit  
 # Starter Commands
-## Who
-- kas pielagojies:
-> Show who is logged in  
-## WhoAmI
-- lietotajvards
+## Who  
+- kas pielagojies:  
+> Show who is logged in    
+## WhoAmI  
+- lietotajvards  
 > USERNAME  
 ## WhereIs  
-- atrast vienkāršu failu:
-> locate a file
-## find
-- atrast failu direktorijā
-> search for file in dirrectory
-## sort
-- šķirot failus
-> sort files
-## clear
-- notīrīt terminālu
-> clear terminal
-## History
-- vēsture:
-> history
+- atrast vienkāršu failu:  
+> locate a file  
+## find  
+- atrast failu direktorijā  
+> search for file in dirrectory  
+## sort  
+- šķirot failus  
+> sort files  
+## clear  
+- notīrīt terminālu  
+> clear terminal  
+## History  
+- vēsture:  
+> history  
+# File reading
+## head(from the top)/tail(from the bottom)
+> displays a text
+> -n lines number
 ## CAT
 - Objektu lasīšana:
-> Shows text  
+> Shows text
+## grep
+> provides search in the text document
+## cut
+> is a command line utility for cutting sections from each line of 
+> files and writing the result to standard output
+>
+> *FILE _ NAMES.CSW*
+> John,Smith,34,London
+> Arthur,Evans,21,Newport
+> George,Jones,32,Truro
+>
+> cut -d ',' -f 1,4 names.csv
+> John,London
+> Arthur,Newport
+> George,Truro
+>
 ## RM
 - nodzēst failu/māpi:
-> remove an object (-r) - to remove ignoring troubles  
+> remove an object (-r) - to remove ignoring troubles (--forse)  
 ## LS
 - attēlo māpes:
 > Show Enabled Dirrectory
@@ -147,6 +169,9 @@ Dattormācības kursa elektroniskā klade
 - parvietot visus (Object) failus
 > **MV +(Dirrectory1 ( * .txt)) +Dirrectory2**
 - parcelt visus .txt objektus no (Dirrectory1) uz Dirrectory2
+## chmod
+> rwx rwx rwx (111 110 000)
+> permission to the content  
 
 # PYTHON/IDLE
 
@@ -220,9 +245,3 @@ except:
     istr=("0")  
     print("Incorrect type: ",istr)  
     print("You entered: ",astr,"- not a numer!")  
-## File reading
->
-##
->
-##
->
