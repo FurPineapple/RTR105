@@ -65,7 +65,7 @@ Dattormācības kursa elektroniskā klade
 ## UNAME
 - sistēmas nosaukums:
 > System information  
-## ECHO $0
+## echo $0
 - valodas informācija:
 > Language Info  
 ## sh
@@ -108,29 +108,6 @@ Dattormācības kursa elektroniskā klade
 ## History  
 - vēsture:  
 > history  
-# File reading
-## head(from the top)/tail(from the bottom)
-> displays a text
-> -n lines number
-## CAT
-- Objektu lasīšana:
-> Shows text
-## grep
-> provides search in the text document
-## cut
-> is a command line utility for cutting sections from each line of 
-> files and writing the result to standard output
->
-> *FILE _ NAMES.CSW*
-> John,Smith,34,London
-> Arthur,Evans,21,Newport
-> George,Jones,32,Truro
->
-> cut -d ',' -f 1,4 names.csv
-> John,London
-> Arthur,Newport
-> George,Truro
->
 ## RM
 - nodzēst failu/māpi:
 > remove an object (-r) - to remove ignoring troubles (--forse)  
@@ -140,7 +117,7 @@ Dattormācības kursa elektroniskā klade
 ## CD
 - kustīties caur direktorijām:
 > move through dirrectories
-## CD+~
+## CD+ ~/
 - mājas:
 > home  
 ## CD + /home/user/
@@ -171,7 +148,32 @@ Dattormācības kursa elektroniskā klade
 - parcelt visus .txt objektus no (Dirrectory1) uz Dirrectory2
 ## chmod
 > rwx rwx rwx (111 110 000)
-> permission to the content  
+> permission to the content
+
+# File reading
+## head(from the top)/tail(from the bottom)
+> displays a text
+> -n lines number
+## CAT
+- Objektu lasīšana:
+> Shows text
+## grep
+> provides search in the text document
+## cut
+> is a command line utility for cutting sections from each line of 
+> files and writing the result to standard output
+>
+> *FILE _ NAMES.CSW*
+> John,Smith,34,London
+> Arthur,Evans,21,Newport
+> George,Jones,32,Truro
+>
+> cut -d ',' -f 1,4 names.csv
+> John,London
+> Arthur,Newport
+> George,Truro
+>
+  
 
 # PYTHON/IDLE
 
