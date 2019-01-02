@@ -177,20 +177,30 @@ Dattormācības kursa elektroniskā klade
 
 # PYTHON/IDLE
 
+## Modules
+> *#Import built-in module math*
+> import math
+> content = dir(math)
+> print content
+*['__doc__', '__file__', '__name__', 'acos', 'asin', 'atan', 
+'atan2', 'ceil', 'cos', 'cosh', 'degrees', 'e', 'exp', 
+'fabs', 'floor', 'fmod', 'frexp', 'hypot', 'ldexp', 'log',
+'log10', 'modf', 'pi', 'pow', 'radians', 'sin', 'sinh', 
+'sqrt', 'tan', 'tanh']*
 ## print()
 > describes an object
 > type()
 > * INTEGERS (int(a) )
 > * FLOATING (float(a.) )
 > * STRING (str("a") )
-## BASIC MATHS 1
+# BASIC MATHS 1
 >  * (+) ADDITION
 >  * (-) SUBTRACTION
 >  * (*) MULTIPLICATION
 >  * (/) DIVISION
 >  * (**) POWER
 >  * (%) REMAINDER
-## BASIC MATHS 2
+# BASIC MATHS 2
 > (<) Less than
 
 > (<=)  Less than or Equal to
@@ -202,7 +212,7 @@ Dattormācības kursa elektroniskā klade
 > (>) Greater than
 
 > (!=)  Not Equal
-## BASIC MATHS 3
+# BASIC MATHS 3
 > len((1, 2, 3)) = 3
 > (1, 2, 3) + (4, 5, 6) = (1, 2, 3, 4, 5, 6)
 > ('Hi!',) * 4 = ('Hi!', 'Hi!', 'Hi!', 'Hi!')
